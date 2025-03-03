@@ -1,10 +1,6 @@
 # AI Featured Image Generator
 
 <p align="center">
-  <img src="https://via.placeholder.com/200x200?text=AI+Featured+Image" alt="Plugin Logo"/>
-</p>
-
-<p align="center">
   <a href="#english">English</a> | <a href="#chinese">中文</a>
 </p>
 
