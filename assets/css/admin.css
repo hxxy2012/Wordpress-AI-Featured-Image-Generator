@@ -1,0 +1,55 @@
+/**
+ * Admin styles for AI Featured Image Generator
+ */
+
+/* Meta Box Styles */
+.aifig-meta-box {
+    position: relative;
+}
+
+.aifig-thumbnail-preview {
+    text-align: center;
+    margin-bottom: 12px;
+}
+
+.aifig-thumbnail-preview img {
+    max-width: 100%;
+    height: auto;
+    border: 1px solid #ddd;
+}
+
+.aifig-spinner {
+    float: none;
+    margin-top: 0;
+    margin-left: 5px;
+    vertical-align: middle;
+}
+
+.aifig-result-message {
+    margin: 10px 0;
+    padding: 8px;
+    display: none;
+}
+
+.aifig-success {
+    background-color: #f0fff0;
+    border-left: 4px solid #46b450;
+}
+
+.aifig-error {
+    background-color: #ffeaea;
+    border-left: 4px solid #dc3232;
+}
+
+/* Settings Page Styles */
+.aifig-info-box {
+    background: #fff;
+    border: 1px solid #ccd0d4;
+    box-shadow: 0 1px 1px rgba(0,0,0,.04);
+    margin-top: 20px;
+    padding: 15px;
+}
+
+.aifig-info-box h2 {
+    margin-top: 0;
+}
